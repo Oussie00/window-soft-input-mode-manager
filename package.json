@@ -1,6 +1,6 @@
 {
   "name": "window-soft-input-mode-manager",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "window-soft-input-mode-manager",
   "main": "dist/plugin.cjs.js",
   "module": "dist/esm/index.js",
